@@ -1,0 +1,93 @@
+Wolfenstein The Old Blood.0.1448 win-x64 Retail  Apr 28 2015 11:29:58
+Wolfenstein The Old Blood.0.1448
+------ Initializing File System ------
+Current search path:
+C:/Users/Sunrait/Saved Games/MachineGames/Wolfenstein The Old Blood/base/
+F:/Wolfenstein/Wolfenstein Second OLD BLOOD/Wolfenstein The Old Blood/base/
+file system initialized.
+BenchmarkGameData: ofs 0 and 0x139722752x 
+1499 microseconds
+10323 microseconds
+7097 microseconds
+6970 microseconds
+5676 microseconds
+7127 microseconds
+6915 microseconds
+6901 microseconds
+5637 microseconds
+6991 microseconds
+Average seek time without outliers: 6664 microseconds
+fileBenchmarkImpliesGameIsOnHD: true
+---------------------------
+idStreamingInstallManager::Init: using langMask 1 for lang english
+1 CPU package, 2 physical cores, 4 logical cores
+log file 'qconsole.log' opened on Sat May 16 17:49:14 2020
+
+2395 MHz Intel CPU with MMX & SSE & SSE2 & SSE3 & SSSE3 & SSE41 & SSE42 & AVX & HTT
+32768 kB 1st level cache, 262144 kB 2nd level cache, 3145728 kB 3rd level cache
+4032 MB System Memory
+Winsock Initialized
+Found interface: {985F9332-E8DF-4354-A590-C9958C211C19} Qualcomm Atheros AR8152 PCI-E Fast Ethernet Controller (NDIS 6.30) - 0.0.0.0 NULL netmask - skipped
+Found interface: {6C1E19CB-2D40-497D-B27E-ADB7806CF782} Bluetooth Personal Area Network - 0.0.0.0 NULL netmask - skipped
+Found interface: {A6031C5E-1603-43BC-BE2E-CAA187BA9311} Qualcomm Atheros AR9285 Wireless Network Adapter - 192.168.1.66/255.255.255.0
+Found interface: {236156F8-9D8F-426A-8D95-48CD873690C2} Microsoft Wi-Fi Direct Virtual Adapter - 0.0.0.0 NULL netmask - skipped
+Found interface: {B7894427-972A-44C6-8AC3-6680D2B634AE} Microsoft Wi-Fi Direct Virtual Adapter #2 - 0.0.0.0 NULL netmask - skipped
+Sys_InitNetworking: adding loopback interface
+Executing default.cfg for device #0...
+Unknown command 'vehicle_stickControl'
+execing joystick.cfg
+Executing default.cfg for device #1...
+Unknown command 'vehicle_stickControl'
+execing joystick.cfg
+Executing default.cfg for device #2...
+Unknown command 'vehicle_stickControl'
+execing joystick.cfg
+Executing default.cfg for device #3...
+Unknown command 'vehicle_stickControl'
+execing joystick.cfg
+idLib::SetProduction( PROD_PRODUCTION )
+OpenDLCFileHandles: 0 packages mounted.
+WARNING: Config file "wolftobConfig.cfg" not found
+Command line is: "F:\Wolfenstein\Wolfenstein Second OLD BLOOD\Wolfenstein The Old Blood\WolfOldBlood_x64.exe" 
+providerName: Intel Corporation
+driverDesc: Intel(R) HD Graphics 3000
+driverVersion: 9.17.10.4459
+------- Initializing renderSystem --------
+PreliminaryRenderSetup
+---registered window class
+---registered fake window class
+---registered context window class
+GetWGLExtensionsWithFakeWindow: OpenGL Vendor: "Intel"
+GetWGLExtensionsWithFakeWindow: OpenGL Renderer: "Intel(R) HD Graphics 3000"
+GetWGLExtensionsWithFakeWindow: OpenGL version: "3.1.0 - Build 9.17.10.4459"
+---using WGL_EXT_swap_control
+---using WGL_EXT_swap_control_tear
+CreateOpenGLContextForCurrentThread: Assuming pre-checked Graphics Vendor: "Intel"
+CreateOpenGLContextOnDC: Using gl version 3.2
+Probably ERROR_INVALID_VERSION_ARB: 0xc0072095
+WARNING: No address, error: 487
+WARNING: No address, error: 487
+WARNING: No address, error: 487
+WARNING: No address, error: 487
+WARNING: No address, error: 487
+WARNING: No address, error: 487
+WARNING: No address, error: 487
+WARNING: No address, error: 487
+WARNING: No address, error: 487
+WARNING: No address, error: 487
+WARNING: No address, error: 487
+WolfOldBlood_x64.exe @ 0xb66e3b3d(  ) +  bytes () : ** UNKNOWN **( ** FUNC_PARAM_ERROR ** )
+WolfOldBlood_x64.exe @ 0xb6671655(  ) +  bytes () : ** UNKNOWN **( ** FUNC_PARAM_ERROR ** )
+WolfOldBlood_x64.exe @ 0xb667149d(  ) +  bytes () : ** UNKNOWN **( ** FUNC_PARAM_ERROR ** )
+WolfOldBlood_x64.exe @ 0xb6159d72(  ) +  bytes () : ** UNKNOWN **( ** FUNC_PARAM_ERROR ** )
+WolfOldBlood_x64.exe @ 0xb6159baa(  ) +  bytes () : ** UNKNOWN **( ** FUNC_PARAM_ERROR ** )
+WolfOldBlood_x64.exe @ 0xb6159a1b(  ) +  bytes () : ** UNKNOWN **( ** FUNC_PARAM_ERROR ** )
+WolfOldBlood_x64.exe @ 0xb615be72(  ) +  bytes () : ** UNKNOWN **( ** FUNC_PARAM_ERROR ** )
+WolfOldBlood_x64.exe @ 0xb61570c6(  ) +  bytes () : ** UNKNOWN **( ** FUNC_PARAM_ERROR ** )
+WolfOldBlood_x64.exe @ 0xb5dfec50(  ) +  bytes () : ** UNKNOWN **( ** FUNC_PARAM_ERROR ** )
+WolfOldBlood_x64.exe @ 0xb61d574a(  ) +  bytes () : ** UNKNOWN **( ** FUNC_PARAM_ERROR ** )
+WolfOldBlood_x64.exe @ 0xb66b462b(  ) +  bytes () : ** UNKNOWN **( ** FUNC_PARAM_ERROR ** )
+KERNEL32.DLL @ 0x6c2a7bd4(  ) +  bytes () : BaseThreadInitThunk(  )
+ntdll.dll @ 0x6c7ece51(  ) +  bytes () : RtlUserThreadStart(  )
+FATAL ERROR: wglCreateContextAttribsARB failed
+
